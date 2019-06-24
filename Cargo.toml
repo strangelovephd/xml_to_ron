@@ -1,0 +1,7 @@
+[package]
+name = "xml_to_ron"
+version = "0.1.0"
+authors = ["Wesley Hendriksen"]
+edition = "2018"
+
+[dependencies]
